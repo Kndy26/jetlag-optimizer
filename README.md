@@ -15,19 +15,17 @@ To run this application from the source code, you will need Python 3 installed o
 
 1. Clone this repository:
    ```bash
-   `git clone https://github.com/Kndy26/jetlag-optimizer.git`
-   `cd jetlag-optimizer`
-
+   git clone https://github.com/Kndy26/jetlag-optimizer.git
+   cd jetlag-optimizer
 2. Install the required external Python libraries:
    ```bash
-   `pip install customtkinter tkcalendar geopy timezonefinder pytz`
+   pip install customtkinter tkcalendar geopy timezonefinder pytz
 
 ## Usage
 
-Run the main Python script from your terminal:
+- Run the main Python script from your terminal:
    ```bash
-   `python jetlag_gui.py`
-
+   python jetlag_gui.py
 - Enter your Departure City and Destination City (e.g., "Jakarta", "Tokyo").
 - Select your departure date and time using the built-in calendar and dropdowns.
 - Click Calculate Sleep Schedule to generate your flight itinerary and jet lag strategy.
