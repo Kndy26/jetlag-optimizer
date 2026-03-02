@@ -31,6 +31,6 @@ Run the main Python script from your terminal:
 
 ## Built With
 
-- CustomTkinter - UI Framework
-- GeoPy - Geocoding API
-- TimezoneFinder - Offline timezone lookup
+- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - UI Framework
+- [GeoPy](https://geopy.readthedocs.io/) - Geocoding API
+- [TimezoneFinder](https://timezonefinder.readthedocs.io/) - Offline timezone lookup
