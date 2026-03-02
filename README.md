@@ -14,16 +14,16 @@ A modern Python desktop application designed to help travelers minimize jet lag.
 To run this application from the source code, you will need Python 3 installed on your machine.
 
 1. Clone this repository:
-   git clone [https://github.com/Kndy26/jetlag-optimizer.git](https://github.com/Kndy26/jetlag-optimizer.git)
-   cd jetlag-optimizer
+   `git clone [https://github.com/Kndy26/jetlag-optimizer.git](https://github.com/Kndy26/jetlag-optimizer.git)`
+   `cd jetlag-optimizer`
 
 2. Install the required external Python libraries:
-   pip install customtkinter tkcalendar geopy timezonefinder pytz
+   `pip install customtkinter tkcalendar geopy timezonefinder pytz`
 
 ## Usage
 
 Run the main Python script from your terminal:
-python jetlag_gui.py
+`python jetlag_gui.py`
 
 - Enter your Departure City and Destination City (e.g., "Jakarta", "Tokyo").
 - Select your departure date and time using the built-in calendar and dropdowns.
