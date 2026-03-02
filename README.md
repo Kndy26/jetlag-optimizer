@@ -35,6 +35,6 @@ Run the main Python script from your terminal:
 - [GeoPy](https://geopy.readthedocs.io/) - Geocoding API
 - [TimezoneFinder](https://timezonefinder.readthedocs.io/) - Offline timezone lookup
 
-## Screenshoots
+## Screenshots
 
 ![Jet Lag Optimizer Results](images/app_result.png)
